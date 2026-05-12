@@ -46,15 +46,15 @@ Se descartó la eliminación de filas para evitar subrepresentar el segmento de 
 
 6. Segmentación de Usuarios
 Por nivel de uso (basado en cant_llamadas y cant_mensajes):
-SegmentoCriterio% de UsuariosBajo UsoLlamadas < 5 y Mensajes < 5~19%Uso MedioLlamadas < 10 y Mensajes < 10~74%Alto UsoResto de casos~7%
+SegmentoCriterio% de UsuariosBajo UsoLlamadas < 5 y Mensajes < 5~19%Uso MedioLlamadas < 10 y Mensajes < 10-74%Alto UsoResto de casos 7%
 Por grupo de edad:
-SegmentoRango% de UsuariosJoven< 30 años~19%Adulto30–60 años~50%Adulto Mayor> 60 años~30%
+SegmentoRango% de UsuariosJoven< 30 años-19% Adulto30–60 años 50% Adulto Mayor> 60 años 30%
 
 💡 Hallazgos Principales
 
 El 74% de los usuarios son de Uso Medio, con un comportamiento consistente y predecible en ambos planes.
 El segmento de Alto Uso (7%) concentra los outliers más extremos en llamadas y minutos, con consumo hasta 3x por encima de la mediana — probablemente subatendido por los planes actuales.
-El segmento Adulto domina la base (~50%), seguido de Adulto Mayor (~30%), indicando una base de usuarios madura y potencialmente fiel.
+El segmento Adulto domina la base (50%), seguido de Adulto Mayor (30%), indicando una base de usuarios madura y potencialmente fiel.
 Ambos planes muestran distribuciones de edad casi idénticas, lo que sugiere que la elección de plan no está siendo guiada por la edad sino por otros factores.
 
 
