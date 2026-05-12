@@ -1,10 +1,10 @@
-📱 #Análisis ConnectaTel
-*Segmentación y Comportamiento de Usuarios por Tipo de Plan*
+📱 Análisis ConnectaTel
+Segmentación y Comportamiento de Usuarios por Tipo de Plan
 
-📌 ##Descripción del Proyecto
+📌 Descripción del Proyecto
 Análisis exploratorio de datos (EDA) sobre la base de usuarios de ConnectaTel, una empresa de telecomunicaciones con dos planes disponibles: Básico y Premium. El objetivo es identificar patrones de uso, segmentar a los clientes por edad y nivel de actividad, y traducir los hallazgos en recomendaciones comerciales accionables.
 
-🗂️ ##Estructura del Proyecto
+🗂️ Estructura del Proyecto
 analisis-connectatel/
 │
 ├── data/
